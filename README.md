@@ -11,5 +11,5 @@
 # Clonando o Repositório
 
 ```
-  git clone https://github.com/pedroduarte2005/projeto-tecblog-html-css.git
+  git clone https://github.com/pduartesilva2005/projeto-tecblog-html-css.git
 ```
